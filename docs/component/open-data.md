@@ -34,7 +34,6 @@
 |userProvince|用户所在省份|微信小程序、QQ小程序|
 |userCountry|用户所在国家|微信小程序、QQ小程序|
 |userLanguage|用户的语言|微信小程序、QQ小程序|
-
 **示例**
 
 ```html
